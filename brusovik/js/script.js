@@ -8,8 +8,8 @@ $('.carousel_inner').slick({
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 7000,
-    prevArrow: '<button type="button" class="slick-prev"><img src="../img/arrowL.jpg" alt=""></button>',
-    nextArrow: '<button type="button" class="slick-next"><img src="../img/arrowR.jpg" alt=""></button>'
+    prevArrow: '<button type="button" class="slick-prev"><img src="img/arrowL.jpg" alt=""></button>',
+    nextArrow: '<button type="button" class="slick-next"><img src="img/arrowR.jpg" alt=""></button>'
 });
 
 window.addEventListener('DOMContentLoaded', () => {
